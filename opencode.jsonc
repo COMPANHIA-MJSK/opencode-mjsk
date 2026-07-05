@@ -1,0 +1,53 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "skills": {
+    "enabled": true,
+    "directories": [
+      "skills/ui-ux-pro-max",
+      "skills/design",
+      "skills/design-system",
+      "skills/brand",
+      "skills/banner-design",
+      "skills/ui-styling",
+      "skills/slides",
+      "skills/gstack-core",
+      "skills/ecc",
+      "skills/gsd-core",
+      "skills/animations",
+      "skills/ai-intelligence",
+      "skills/business",
+      "skills/finance",
+      "skills/admin",
+      "skills/global-market",
+      "skills/memory-system",
+      "skills/graphify",
+      "skills/frontend",
+      "skills/react-next",
+      "skills/typescript",
+      "skills/tailwind",
+      "skills/shadcn-ui",
+      "skills/html-css-js",
+      "skills/responsive",
+      "skills/accessibility",
+      "skills/seo",
+      "skills/performance",
+      "skills/testing",
+      "skills/deployment",
+      "skills/api-integration",
+      "skills/python-ai",
+      "skills/cloud-aws",
+      "skills/docker-k8s",
+      "skills/devops-cicd",
+      "skills/data-engineering",
+      "skills/cybersecurity",
+      "skills/rust-go",
+      "skills/llm-agents",
+      "skills/mobile-dev",
+      "skills/backend"
+    ]
+  },
+  "memory": {
+    "enabled": true,
+    "directory": "memory"
+  }
+}
